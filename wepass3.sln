@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wepass3", "Assembly-CSharp.csproj", "{67FDAF39-C3E2-4E77-F712-0102F9F5D528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wepass3", "Assembly-CSharp-Editor.csproj", "{4F4C60EF-E615-55BD-1596-6E30D7553B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FDAF39-C3E2-4E77-F712-0102F9F5D528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FDAF39-C3E2-4E77-F712-0102F9F5D528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FDAF39-C3E2-4E77-F712-0102F9F5D528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FDAF39-C3E2-4E77-F712-0102F9F5D528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4C60EF-E615-55BD-1596-6E30D7553B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4C60EF-E615-55BD-1596-6E30D7553B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4C60EF-E615-55BD-1596-6E30D7553B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4C60EF-E615-55BD-1596-6E30D7553B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $2
+		$2.Text = 
+		$2.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
