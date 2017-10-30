@@ -101,10 +101,10 @@
      <Compile Include="Assets\Fungus\Thirdparty\Usfxr\Editor\SfxrGenerator.cs" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Thirdparty\JSON\readme.txt" />
      <None Include="Assets\FungusExamples\FungusLua\Localization\stringtable.txt" />
-     <None Include="Assets\Fungus\Docs\README.txt" />
+     <None Include="Assets\Fungus\Scripts\Commands\Docs\README.txt" />
      <None Include="Assets\Fungus\Thirdparty\LeanTween\ReadMe.txt" />
      <None Include="Assets\Fungus\Fonts\Exo2\OFL.txt" />
-     <None Include="Assets\Fungus\Docs\LICENSE.txt" />
+     <None Include="Assets\Fungus\Scripts\Commands\Docs\LICENSE.txt" />
      <None Include="Assets\Fungus\Integrations\Playmaker\ReadMe.txt" />
      <None Include="Assets\Fungus\Scripts\link.xml" />
      <None Include="Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt" />
@@ -121,7 +121,7 @@
      <None Include="Assets\Fungus\Textures\Attribution.txt" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\inspect.txt" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\fungus.txt" />
-     <None Include="Assets\Fungus\Docs\CHANGELOG.txt" />
+     <None Include="Assets\Fungus\Scripts\Commands\Docs\CHANGELOG.txt" />
      <None Include="Assets\Fungus\Thirdparty\Reorderable List Field\Editor\Editor.ReorderableList.xml" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>

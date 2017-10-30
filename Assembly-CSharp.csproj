@@ -517,6 +517,8 @@
      <Compile Include="Assets\Fungus\Thirdparty\Usfxr\Scripts\SfxrSynth.cs" />
      <Compile Include="Assets\Fungus\Thirdparty\iTween\iTween.cs" />
      <Compile Include="Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs" />
+     <Compile Include="Assets\InventoryController.cs" />
+     <Compile Include="Assets\Item.cs" />
      <Compile Include="Assets\Program\Player.cs" />
      <Compile Include="Assets\Program\SceneStart.cs" />
      <Compile Include="Assets\Program\follow.cs" />
@@ -524,12 +526,14 @@
      <Compile Include="Assets\Program\interactionOBJ.cs" />
      <Compile Include="Assets\Program\ladder.cs" />
      <Compile Include="Assets\Program\talkable.cs" />
+     <Compile Include="Assets\SlotController.cs" />
+     <Compile Include="Assets\slot.cs" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Thirdparty\JSON\readme.txt" />
      <None Include="Assets\FungusExamples\FungusLua\Localization\stringtable.txt" />
-     <None Include="Assets\Fungus\Docs\README.txt" />
+     <None Include="Assets\Fungus\Scripts\Commands\Docs\README.txt" />
      <None Include="Assets\Fungus\Thirdparty\LeanTween\ReadMe.txt" />
      <None Include="Assets\Fungus\Fonts\Exo2\OFL.txt" />
-     <None Include="Assets\Fungus\Docs\LICENSE.txt" />
+     <None Include="Assets\Fungus\Scripts\Commands\Docs\LICENSE.txt" />
      <None Include="Assets\Fungus\Integrations\Playmaker\ReadMe.txt" />
      <None Include="Assets\Fungus\Scripts\link.xml" />
      <None Include="Assets\FungusExamples\FungusLua\Narrative\Resources\Lua\junglestory.txt" />
@@ -546,7 +550,7 @@
      <None Include="Assets\Fungus\Textures\Attribution.txt" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\inspect.txt" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\fungus.txt" />
-     <None Include="Assets\Fungus\Docs\CHANGELOG.txt" />
+     <None Include="Assets\Fungus\Scripts\Commands\Docs\CHANGELOG.txt" />
      <None Include="Assets\Fungus\Thirdparty\Reorderable List Field\Editor\Editor.ReorderableList.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
