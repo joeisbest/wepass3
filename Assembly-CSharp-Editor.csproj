@@ -180,6 +180,9 @@
  <Reference Include="Editor.ReorderableList">
  <HintPath>D:/沈明智/wepass3/Assets/Fungus/Thirdparty/Reorderable List Field/Editor/Editor.ReorderableList.dll</HintPath>
  </Reference>
+ <Reference Include="LitJson">
+ <HintPath>D:/沈明智/wepass3/Assets/Program/LitJson.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
