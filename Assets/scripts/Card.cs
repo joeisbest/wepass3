@@ -8,6 +8,7 @@ public class Card : MonoBehaviour {
 	public GameManager gameManager;
 	void Start () {
 		cardState = CardState.未翻牌;
+		gameManager = GameObject.FindGameObjectWithTag ("GameManager").GetComponent<GameManager>();
 	}
 	private void OnMouseUp(){
 		if (cardState.Equals (CardState.已翻牌)) {
@@ -33,5 +34,5 @@ public enum CardState
 }
 public enum CardPattern
 {
-	無/*預設*/,白花,木桶,玩偶,橘偶,梯子,旗子,繩子,花
+	無/*預設*/,奇異果,柳橙,橘子,水蜜桃,芭樂,葡萄,蘋果,西瓜
 }
